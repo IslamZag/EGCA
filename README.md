@@ -18,5 +18,5 @@ The Framework have the following options:
 
 6. display running services on a given host 
 
-This Python script use the following libraries: pyshark,urllib, BeautifulSoup and prettytable
+This Python script use the following libraries: pyshark,urllib, BeautifulSoup and prettytable.
 It use nmap and John, so these apps should be installed prior to running this script.
